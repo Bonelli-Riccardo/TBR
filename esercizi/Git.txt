@@ -1,2 +1,0 @@
-Benvenuto nel laboratorio di sistemi.
-Questo file contiene le linee guida generali del progetto.
